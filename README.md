@@ -1,0 +1,1 @@
+# Tecnicas-de-Pre-processamento-de-Imagem-com-Deteccao-de-Objetos
